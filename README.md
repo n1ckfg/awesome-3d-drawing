@@ -27,7 +27,7 @@
 - [Active Strokes: Coherent Line Stylization for Animated 3D Models](https://inria.hal.science/hal-00693453/en) Active Strokes create coherently animated line drawings by using active contours to approximate and track lines in a 3D scene for stylized rendering. - Pierre Bénard et al (2012). {[code](https://github.com/benardp/ActiveStrokes)}
 
 ### 3D Drawing Techniques and Analysis
-- [PainterBench: A Figural Divergent-Thinking Benchmark for Tool-Using Language Models]() A "creativity" rating methodology for agent drawings. - Shane K.A. Dalumura Hettige and Jonas Oppenlaender (2026).
+- [PainterBench: A Figural Divergent-Thinking Benchmark for Tool-Using Language Models](https://arxiv.org/abs/2609.34195) A "creativity" rating methodology for agent drawings. - Shane K.A. Dalumura Hettige and Jonas Oppenlaender (2026).
 - [Painting with 3D Gaussian Splat Brushes](https://dl.acm.org/doi/10.1145/3721238.3730724) TK. - Karran Pandey et al (2025).
 - [BrushGaussian: Brushstroke-Based Stylization for 3D Gaussian Splatting](https://www.mdpi.com/2076-3417/15/12/6881) TK. - Zhi-Zheng Xiang et al (2025).
 - [An Inverse Procedural Modeling Pipeline for Stylized Brush Stroke Rendering](https://diglib.eg.org/server/api/core/bitstreams/f12e87c6-6eda-4376-b77a-71eb945ebd8a/content) TK. - Hao Li et al (2024).
